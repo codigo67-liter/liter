@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Lit-r</string>
+
+    <string name="menu_premios">Prizes</string>
+    <string name="menu_liter">Home</string>
+    <string name="menu_ranking">Ranking</string>
+
+    <!--General-->
+    <string name="img_description">Image Description</string>
+
+    <!--Map-->
+    <string name="activity_map">Collection centers</string>
+    <string name="google_maps_key">AIzaSyCo7Y9BoM3MAPB_qCtvZSAbtFD7pdDJujc</string>
+
+    <!--Scanner-->
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Barcode Reader Sample</string>
+    <string name="barcode_header">Click &quot;Read Barcode&quot; to read a barcode</string>
+    <string name="read_barcode">Read Barcode</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="barcode_success">Barcode read successfully</string>
+    <string name="barcode_failure">No barcode captured</string>
+    <string name="barcode_error">"Error reading barcode: %1$s"</string>
+
+    <!--Parse-->
+    <string name="parse_app_id">zVjNCbde9NKs3yBd0ZuJFbd0qPSyIsDyxBXiyM9P</string>
+    <string name="parse_client_key">Eyx3but12t6OF50aiPHDdQ0W6IdXmjtc7htraceB</string>
+    <string name="facebook_app_id">748244965345229</string>
+
+    <string name="profile_logo_content_description">Logo</string>
+    <string name="profile_title_logged_in">Your are logged in as</string>
+    <string name="profile_logout_button_label">Log out</string>
+    <string name="profile_title_logged_out">You must be logged in to start lit-ring</string>
+    <string name="profile_login_button_label">Log in</string>
+
+    <string-array name="my_facebook_permissions">
+        <item>public_profile</item>
+        <item>user_friends</item>
+        <item>email</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_premios"
+        android:title="@string/menu_premios"
+        android:icon="@drawable/ic_home_black"
+        />
+
+    <item
+        android:id="@+id/menu_liter"
+        android:title="@string/menu_liter"
+        android:icon="@drawable/liter"
+        />
+
+    <item
+        android:id="@+id/menu_ranking"
+        android:title="@string/menu_ranking"
+        android:icon="@drawable/ic_notifications_black" />
+</menu>
